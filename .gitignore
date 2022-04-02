@@ -1,0 +1,12 @@
+# idea ignores
+.idea/
+*.iml
+out/
+.DS_Store
+
+# gradle ignores
+.gradle/
+build/
+
+.log
+.out
