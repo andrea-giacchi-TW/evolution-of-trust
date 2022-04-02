@@ -4,9 +4,8 @@
 out/
 .DS_Store
 
-# gradle ignores
-.gradle/
-build/
+# Ignore Gradle project-specific cache directory
+.gradle
 
-.log
-.out
+# Ignore Gradle build output directory
+build
