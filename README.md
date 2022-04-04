@@ -1,4 +1,10 @@
-# THE EVOLUTION OF TRUST
+# THE EVOLUTION OF TRUST 
+
+Website game: https://ncase.me/trust/
+
+Github repo: https://github.com/ncase/trust
+
+---
 During World War I, peace broke out.
 
 It was Christmas 1914 on the Western Front.
